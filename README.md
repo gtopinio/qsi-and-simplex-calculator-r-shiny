@@ -5,7 +5,7 @@ Author: Topinio, Mark Genesis C.
 
 User Manual: [TopinioEx10-UserManual.pdf](TopinioEx10-UserManual.pdf)
 
-This application is a QSI (Quadratic Spline Interpolation) and Simplex Calculator implemented in R Shiny. It provides a user-friendly interface for performing factorization of large integers using the Quadratic Sieve method and solving linear programming problems using the Simplex method.
+This application is an R Shiny application that allows users to solve for the optimal solution of a problem of creating a smooth curve that passes through a set of data points and linear programming problem using the Quadratic Simplex Method and Simplex Method respectively.
 
 To use this application, follow the instructions provided in the User Manual (TopinioEx10-UserManual.pdf). The User Manual contains detailed step-by-step instructions on how to input the integer to be factored or the linear programming problem to be solved, as well as how to interpret the results.
 
